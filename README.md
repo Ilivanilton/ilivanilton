@@ -34,7 +34,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=linux,idea,java,spring,vscode,html,css,js,angular,ts,docker,aws,git,github,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,idea,java,spring,vscode,html,css,js,angular,ts,django,py,docker,aws,git,github,postgres&theme=dark" />
 
 #
 
